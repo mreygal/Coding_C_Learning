@@ -8,14 +8,14 @@ int main()
     	char celebrityL[20];
     
     	printf("\nEnter a color: ");
-	scanf("%s", color);
+	    scanf("%s", color);
     	printf("\nEnter a plural noun: ");
     	scanf("%s", pluralNoun);
     	printf("\nEnter a celebrity (first and last names): ");
     	scanf("%s%s", celebrityF, celebrityL);
     
        	// Separator
-	printf("\n-------------------------------------------\n");	
+	    printf("\n-------------------------------------------\n");	
 
     	printf("Roses are %s\n", color);
     	printf("%s are blue\n", pluralNoun);
