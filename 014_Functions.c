@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 void sayHi (char name[], int age)
-    {
-        printf("\nHello %s, you are %d.\n", name, age);
-    }
+{
+    printf("\nHello %s, you are %d.\n", name, age);
+}
 
 
 int main (void)
