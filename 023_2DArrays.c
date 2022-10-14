@@ -2,9 +2,15 @@
 
 int main (void)
 {
-    int nums[3][2] = {{1,2}, {3,4}, {5,6}};
+    int luckyNumbers[] = {4, 8, 15, 16, 23, 42};
+    int i;
 
-    printf("\n%d\n", nums [2][0]);
+    printf("\n");
+
+    for (i = 0; i < 6; i++)
+    {
+        printf("%d\n", luckyNumbers[i]);
+    }
 
     return 0;
 }
