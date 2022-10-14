@@ -1,2 +1,7 @@
-# GitRepository001
-First repository for first programming tests
+# Coding_C_Learning
+Repository with my C progress (in progress, duh).
+
+Main sources I used to learn C:
+
+- "Curso de Programación: C/C++" by Miguel Ángel Acera.
+- "C Programming Tutorial for Beginners" on https://www.youtube.com/watch?v=KJgsSFOSQv0&t=4305s
